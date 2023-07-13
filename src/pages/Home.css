@@ -354,3 +354,7 @@ code {
     height: 70%;
   }
 }
+.bg{
+  background-color: rgba(0, 0, 0, 0.227) !important;
+  min-height: 400px;
+}
